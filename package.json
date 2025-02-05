@@ -6,6 +6,9 @@
   "author": "",
   "license": "ISC",
   "description": "",
+  "scripts": {
+    "test": "mocha"
+  },
   "dependencies": {
     "@swc-node/register": "^1.10.9",
     "@swc/core": "^1.10.14",
